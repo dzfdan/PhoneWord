@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D600B4DD-4FE0-4C8B-A466-E6662EC44F48}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneWord Status">
+    <Files>
+      <File FileName="Phoneword/MainPage.xaml.cs" Line="36" Column="12" />
+      <File FileName="Phoneword/App.xaml.cs" Line="31" Column="1" />
+      <File FileName="Phoneword/PhoneTranslator.cs" Line="32" Column="20" />
+      <File FileName="iOS/PhoneDialer.cs" Line="17" Column="2" />
+      <File FileName="Droid/PhoneDialer.cs" Line="29" Column="1" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="6" Column="12" />
+      <File FileName="Phoneword/Properties/AssemblyInfo.cs" Line="4" Column="35" />
+      <File FileName="Droid/Resources/Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="19" Column="48" />
+      <File FileName="iOS/Entitlements.plist" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="Phoneword/obj/Debug/Phoneword.App.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="Phoneword/CallHistoryPage.xaml.cs" Line="14" Column="3" />
+      <File FileName="iOS/packages.config" Line="1" Column="1" />
+      <File FileName="Phoneword/packages.config" Line="4" Column="12" />
+      <File FileName="Droid/packages.config" Line="12" Column="12" />
+      <File FileName="PhoneWord Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Phoneword.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A483DE36-09C8-4201-94F9-1A0680F01D3C" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/daisy/Projects/xamarin/PhoneWord/Phoneword/MainPage.xaml.cs" relfile="Phoneword/MainPage.xaml.cs" line="40" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Phoneword.Droid PreferredExecutionTarget="Android.Nexus_5_API_19" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
